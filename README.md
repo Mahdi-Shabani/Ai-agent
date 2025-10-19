@@ -27,9 +27,6 @@ Dataset: data.csv (available via the provided link below)
 
 ## Installation
 
-Clone the repository:git clone https://github.com/your-username/your-repo.git
-
-
 Install dependencies:pip install -r requirements.txt
 
 (Create a requirements.txt file with: pandas nltk spacy and add it to the repo.)
